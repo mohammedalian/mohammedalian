@@ -62,7 +62,8 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalian&" alt="mohammedalian" /></p>
+<div align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalian&" alt="mohammedalian" />
+</div>
 
 ###
 
